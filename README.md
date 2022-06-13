@@ -1,2 +1,2 @@
-TODO: 
+**TODO:** 
 1. Create a README.md
